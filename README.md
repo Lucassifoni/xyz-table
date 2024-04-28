@@ -11,6 +11,9 @@ You have to print **everything** flawlessly for smooth motion. To determine what
 
 Good question : I found that my smaller tolerance tests (one rail only) did not give correct information as whether a whole stage would be smooth.
 
+The tolerance is the fine space in this screenshot. The smallest you can print, the best :
+![](/tol.jpg)
+
 | Name | Value | Printed and tested |
 |---|---|---|
 | Tightest | 0.07mm |  ✅ (Bambu P1S) |
