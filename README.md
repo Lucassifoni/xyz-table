@@ -46,3 +46,6 @@ Only uses M4 rods and M4 screws as vitamins. Superglue is used to lock the nuts 
 - Use PETG
 - Re-tap the screw holes before assembly
 - Tap the carrier blocks **with oil** before assembly
+
+Thanks Paul for design advice !
+
