@@ -1,5 +1,7 @@
 # Low-BOM printable XYZ platform for Bath Interferometers
 
+![](by-nc-sa.png) Licensed under Creative Commons BY-NC-SA 4.0 
+
 ![](./photo.webp)
 
 ## Please know your printer and use the TOLERANCE TEST
