@@ -17,6 +17,12 @@ Good question : I found that my smaller tolerance tests (one rail only) did not 
 | Tight | 0.1mm |  |
 | Easy | 0.125mm |  |
 
+## Prints BOM
+
+- Print the TOLERANCE TEST and choose accordingly
+- Print everything in the `Common` folder in the quantities listed in file names
+- Print everything in the folder corresponding to your chosen tolerance
+
 ## Vitamins BOM
 
 | Design. | Quantity |
