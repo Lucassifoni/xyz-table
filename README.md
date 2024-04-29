@@ -2,7 +2,11 @@
 
 ![](by-nc-sa.png) Licensed under Creative Commons BY-NC-SA 4.0 
 
-![](./photo.webp)
+| | |
+|-|-|
+|![](./IMG_8859.webp) |![](./IMG_8860.webp) |
+| coarse controls | fine control handles |
+
 
 ## Please know your printer and use the TOLERANCE TEST
 
